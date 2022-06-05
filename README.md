@@ -3,4 +3,4 @@ Cu tine ma?/
 Cu mine, da/
 Cine?/
 Cine te-a-ntrebat, hahahaha :DD/
-D:
+Care mi-a furat ma duma?/
