@@ -4,3 +4,4 @@ Cu mine, da/
 Cine?/
 Cine te-a-ntrebat, hahahaha :DD/
 Care mi-a furat ma duma?/
+SIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII/
