@@ -98,6 +98,12 @@ def calendar():
         if gasit == 0:
             date.config(text = f"!DATA NEINREGISTRATA!")
 
+        #if data in list(data):
+        #    date.config(text = "Data selectata : " + cal.get_date())
+        #else:
+        #    date.config(text = "DATA NEINREGISTRATA")
+        #for i in list(data)[:1]:
+        #    date.config(text = f"{int(i['cazuri'])} cazuri in aceasta data\nRata este : {float(i['rata'])}")
 
     # Adaugare buton + eticheta
     Button(root, text = "Confirma data selectata",

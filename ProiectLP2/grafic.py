@@ -2,7 +2,6 @@ from pathlib import Path
 from urllib.request import *
 import json
 import matplotlib.pyplot as plt
-from datetime import *
 
 def grafic():
     nume_fisier = "ProiectLp2.json"
@@ -35,14 +34,16 @@ def grafic():
         y = int(cazuri['cazuri'])
         for zile in list(data)[:5]:
             x = int(zile['data'][-2:])
-
-            plt.plot([y,x])
+            print([y,x], end=', ')
+            #plt.plot([y,x])
+            plt.plot([y],[x],'o')
+            # plt.plot(y,x)
 
     #plt.plot([1,2,3,4])
-    plt.xlabel('x - Cazurile Covid ')
+    plt.xlabel('x - Zile ')
     #plt.xlim(1,32)
 
-    plt.ylabel('y - Zile')
+    plt.ylabel('y - Cazuri')
 
     plt.title('Cazuri covid ')
 
@@ -54,18 +55,3 @@ def grafic():
 if __name__ == '__main__':
     print(grafic())
 
-import matplotlib.pyplot as plt
-import numpy as np
-import seaborn as sns
-
-# use seaborn style
-#sns.set_theme()
-
-# create data
-#values=np.cumsum(np.random.randn(1000,1))
-
-# use the plot function
-#plt.plot(values)
-
-# show the graph
-#plt.show()
