@@ -6,5 +6,5 @@ Cine te-a-ntrebat, hahahaha :DD/
 Care mi-a furat ma duma?/
 SIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII/
 SIUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU/
-Messi 5 goluri ,va pupa sefu la folbal
+Messi 5 goluri ,va pupa sefu la folbal/
 Taci ma
